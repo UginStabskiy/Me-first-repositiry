@@ -8,3 +8,4 @@ def look_for_key(main_box):# оголошуємо функцію з назвою
                 pile.append(item) # викинути коробку назад до кучі
             elif item.is_a_key(): # якщо елемент це ключ
                 print("found the key!") # тоді друкуємо цей запис.
+print("Hello World")                
